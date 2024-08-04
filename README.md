@@ -2,4 +2,4 @@
 
 The project name is 'LibrarySpringMVCApp'
 
-Pacakage name is 'com.libraryspringmvcapp
+Pacakage name is 'com.libraryspringmvc'
