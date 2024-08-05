@@ -11,3 +11,4 @@ com.libraryspringmvc.config,
  com.libraryspringmvc.controller,
  com.libraryspringmvc.service
 
+![alt text](SpringMVC.png)
